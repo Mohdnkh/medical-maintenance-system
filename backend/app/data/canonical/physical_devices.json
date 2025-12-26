@@ -1,0 +1,272 @@
+{
+  "physical_devices": [
+    {
+      "device_id": 1,
+      "model_name": "CL-900i",
+      "center_name": "مختبرات البيت الحيوي",
+      "serial_number": "UNKNOWN",
+      "installation_date": "UNKNOWN",
+      "contract_type": "UNKNOWN"
+    },
+    {
+      "device_id": 2,
+      "model_name": "CL-900i",
+      "center_name": "مختبرات الراية الطبية",
+      "serial_number": "UNKNOWN",
+      "installation_date": "UNKNOWN",
+      "contract_type": "UNKNOWN"
+    },
+    {
+      "device_id": 3,
+      "model_name": "CL-1000i",
+      "center_name": "مختبرات مرفت",
+      "serial_number": "UNKNOWN",
+      "installation_date": "UNKNOWN",
+      "contract_type": "UNKNOWN"
+    },
+    {
+      "device_id": 4,
+      "model_name": "CL-1000i",
+      "center_name": "المركز الوطني للسكري",
+      "serial_number": "UNKNOWN",
+      "installation_date": "UNKNOWN",
+      "contract_type": "UNKNOWN"
+    },
+    {
+      "device_id": 5,
+      "model_name": "CL-1200i",
+      "center_name": "مستشفى ابن الهيثم",
+      "serial_number": "UNKNOWN",
+      "installation_date": "UNKNOWN",
+      "contract_type": "UNKNOWN"
+    },
+    {
+      "device_id": 6,
+      "model_name": "CL-2000i",
+      "center_name": "مختبرات البيت الحيوي",
+      "serial_number": "UNKNOWN",
+      "installation_date": "UNKNOWN",
+      "contract_type": "UNKNOWN"
+    }
+    ,
+    {
+      "device_id": 7,
+      "model_name": "CL-2000i",
+      "center_name": "مختبرات الراية الطبية",
+      "serial_number": "UNKNOWN",
+      "installation_date": "UNKNOWN",
+      "contract_type": "UNKNOWN"
+    },
+    {
+      "device_id": 8,
+      "model_name": "CL-8000i",
+      "center_name": "مختبرات البيت الحيوي",
+      "serial_number": "UNKNOWN",
+      "installation_date": "UNKNOWN",
+      "contract_type": "UNKNOWN"
+    },
+    {
+      "device_id": 9,
+      "model_name": "BC-3000",
+      "center_name": "مختبرات الراية الطبية",
+      "serial_number": "UNKNOWN",
+      "installation_date": "UNKNOWN",
+      "contract_type": "UNKNOWN"
+    },
+    {
+      "device_id": 10,
+      "model_name": "BC-3000",
+      "center_name": "مختبرات البيت الحيوي",
+      "serial_number": "UNKNOWN",
+      "installation_date": "UNKNOWN",
+      "contract_type": "UNKNOWN"
+    },
+    {
+      "device_id": 11,
+      "model_name": "BC-5000",
+      "center_name": "مستشفى ابن الهيثم",
+      "serial_number": "UNKNOWN",
+      "installation_date": "UNKNOWN",
+      "contract_type": "UNKNOWN"
+    },
+    {
+      "device_id": 12,
+      "model_name": "BC-6800",
+      "center_name": "المركز الوطني للسكري",
+      "serial_number": "UNKNOWN",
+      "installation_date": "UNKNOWN",
+      "contract_type": "UNKNOWN"
+    }
+    ,
+    {
+      "device_id": 13,
+      "model_name": "BC-700",
+      "center_name": "مختبرات ميدلاب",
+      "serial_number": "UNKNOWN",
+      "installation_date": "UNKNOWN",
+      "contract_type": "UNKNOWN"
+    },
+    {
+      "device_id": 14,
+      "model_name": "BC-760",
+      "center_name": "مختبرات أكسيس",
+      "serial_number": "UNKNOWN",
+      "installation_date": "UNKNOWN",
+      "contract_type": "UNKNOWN"
+    },
+    {
+      "device_id": 15,
+      "model_name": "BC-780",
+      "center_name": "مختبرات النخبة",
+      "serial_number": "UNKNOWN",
+      "installation_date": "UNKNOWN",
+      "contract_type": "UNKNOWN"
+    },
+    {
+      "device_id": 16,
+      "model_name": "BC-2800",
+      "center_name": "مختبرات الدقة الطبية",
+      "serial_number": "UNKNOWN",
+      "installation_date": "UNKNOWN",
+      "contract_type": "UNKNOWN"
+    },
+    {
+      "device_id": 17,
+      "model_name": "BC-5150",
+      "center_name": "مختبرات الحياة",
+      "serial_number": "UNKNOWN",
+      "installation_date": "UNKNOWN",
+      "contract_type": "UNKNOWN"
+    },
+    {
+      "device_id": 18,
+      "model_name": "BC-5300",
+      "center_name": "مختبرات المدينة الطبية",
+      "serial_number": "UNKNOWN",
+      "installation_date": "UNKNOWN",
+      "contract_type": "UNKNOWN"
+    }
+    ,
+    {
+      "device_id": 19,
+      "model_name": "BC-5380",
+      "center_name": "مختبرات الحكمة",
+      "serial_number": "UNKNOWN",
+      "installation_date": "UNKNOWN",
+      "contract_type": "UNKNOWN"
+    },
+    {
+      "device_id": 20,
+      "model_name": "BC-5800",
+      "center_name": "مختبرات الأندلس",
+      "serial_number": "UNKNOWN",
+      "installation_date": "UNKNOWN",
+      "contract_type": "UNKNOWN"
+    },
+    {
+      "device_id": 21,
+      "model_name": "BC-6200",
+      "center_name": "مختبرات الهدى",
+      "serial_number": "UNKNOWN",
+      "installation_date": "UNKNOWN",
+      "contract_type": "UNKNOWN"
+    },
+    {
+      "device_id": 22,
+      "model_name": "BC-3000+",
+      "center_name": "مختبرات اليقين",
+      "serial_number": "UNKNOWN",
+      "installation_date": "UNKNOWN",
+      "contract_type": "UNKNOWN"
+    },
+    {
+      "device_id": 23,
+      "model_name": "BS-120",
+      "center_name": "مختبرات الأقصى",
+      "serial_number": "UNKNOWN",
+      "installation_date": "UNKNOWN",
+      "contract_type": "UNKNOWN"
+    },
+    {
+      "device_id": 24,
+      "model_name": "BS-200",
+      "center_name": "مختبرات الفارابي",
+      "serial_number": "UNKNOWN",
+      "installation_date": "UNKNOWN",
+      "contract_type": "UNKNOWN"
+    }
+    ,
+    {
+      "device_id": 25,
+      "model_name": "BS-200E",
+      "center_name": "مختبرات ابن سينا",
+      "serial_number": "UNKNOWN",
+      "installation_date": "UNKNOWN",
+      "contract_type": "UNKNOWN"
+    },
+    {
+      "device_id": 26,
+      "model_name": "BS-230",
+      "center_name": "مختبرات الرازي",
+      "serial_number": "UNKNOWN",
+      "installation_date": "UNKNOWN",
+      "contract_type": "UNKNOWN"
+    },
+    {
+      "device_id": 27,
+      "model_name": "BS-240",
+      "center_name": "مختبرات الزهراء",
+      "serial_number": "UNKNOWN",
+      "installation_date": "UNKNOWN",
+      "contract_type": "UNKNOWN"
+    },
+    {
+      "device_id": 28,
+      "model_name": "BS-380",
+      "center_name": "مختبرات دار الشفاء",
+      "serial_number": "UNKNOWN",
+      "installation_date": "UNKNOWN",
+      "contract_type": "UNKNOWN"
+    },
+    {
+      "device_id": 29,
+      "model_name": "BS-480",
+      "center_name": "مستشفى التخصصي",
+      "serial_number": "UNKNOWN",
+      "installation_date": "UNKNOWN",
+      "contract_type": "UNKNOWN"
+    },
+    {
+      "device_id": 30,
+      "model_name": "BS-600M",
+      "center_name": "مستشفى الخالدي",
+      "serial_number": "UNKNOWN",
+      "installation_date": "UNKNOWN",
+      "contract_type": "UNKNOWN"
+    },
+    {
+      "device_id": 31,
+      "model_name": "BS-2800M",
+      "center_name": "مستشفى الإسلامي",
+      "serial_number": "UNKNOWN",
+      "installation_date": "UNKNOWN",
+      "contract_type": "UNKNOWN"
+    },
+    {
+      "device_id": 32,
+      "model_name": "Mindray SAL",
+      "center_name": "مستشفى الإسراء",
+      "serial_number": "UNKNOWN",
+      "installation_date": "UNKNOWN",
+      "contract_type": "UNKNOWN"
+    },
+    {
+      "device_id": 33,
+      "model_name": "Mindray BA",
+      "center_name": "مستشفى الزهراء",
+      "serial_number": "UNKNOWN",
+      "installation_date": "UNKNOWN",
+      "contract_type": "UNKNOWN"
+    }
+  ]
+}

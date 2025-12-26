@@ -1,0 +1,38 @@
+{
+  "device_models": [
+    { "model_id": 1, "device_family": "CL", "model_name": "CL-900i", "manufacturer": "Mindray" },
+    { "model_id": 2, "device_family": "CL", "model_name": "CL-1000i", "manufacturer": "Mindray" },
+    { "model_id": 3, "device_family": "CL", "model_name": "CL-1200i", "manufacturer": "Mindray" },
+    { "model_id": 4, "device_family": "CL", "model_name": "CL-2000i", "manufacturer": "Mindray" },
+    { "model_id": 5, "device_family": "CL", "model_name": "CL-8000i", "manufacturer": "Mindray" },
+
+    { "model_id": 6, "device_family": "BC", "model_name": "BC-10", "manufacturer": "Mindray" },
+    { "model_id": 7, "device_family": "BC", "model_name": "BC-30S", "manufacturer": "Mindray" },
+    { "model_id": 8, "device_family": "BC", "model_name": "BC-700", "manufacturer": "Mindray" },
+    { "model_id": 9, "device_family": "BC", "model_name": "BC-760", "manufacturer": "Mindray" },
+    { "model_id": 10, "device_family": "BC", "model_name": "BC-780", "manufacturer": "Mindray" },
+    { "model_id": 11, "device_family": "BC", "model_name": "BC-2800", "manufacturer": "Mindray" },
+    { "model_id": 12, "device_family": "BC", "model_name": "BC-3000", "manufacturer": "Mindray" },
+    { "model_id": 13, "device_family": "BC", "model_name": "BC-3000+", "manufacturer": "Mindray" },
+    { "model_id": 14, "device_family": "BC", "model_name": "BC-5000", "manufacturer": "Mindray" },
+    { "model_id": 15, "device_family": "BC", "model_name": "BC-5150", "manufacturer": "Mindray" },
+    { "model_id": 16, "device_family": "BC", "model_name": "BC-5300", "manufacturer": "Mindray" },
+    { "model_id": 17, "device_family": "BC", "model_name": "BC-5380", "manufacturer": "Mindray" },
+    { "model_id": 18, "device_family": "BC", "model_name": "BC-5800", "manufacturer": "Mindray" },
+    { "model_id": 19, "device_family": "BC", "model_name": "BC-6200", "manufacturer": "Mindray" },
+    { "model_id": 20, "device_family": "BC", "model_name": "BC-6800", "manufacturer": "Mindray" },
+
+    { "model_id": 21, "device_family": "BS", "model_name": "BS-120", "manufacturer": "Mindray" },
+    { "model_id": 22, "device_family": "BS", "model_name": "BS-200", "manufacturer": "Mindray" },
+    { "model_id": 23, "device_family": "BS", "model_name": "BS-200E", "manufacturer": "Mindray" },
+    { "model_id": 24, "device_family": "BS", "model_name": "BS-230", "manufacturer": "Mindray" },
+    { "model_id": 25, "device_family": "BS", "model_name": "BS-240", "manufacturer": "Mindray" },
+    { "model_id": 26, "device_family": "BS", "model_name": "BS-380", "manufacturer": "Mindray" },
+    { "model_id": 27, "device_family": "BS", "model_name": "BS-480", "manufacturer": "Mindray" },
+    { "model_id": 28, "device_family": "BS", "model_name": "BS-600M", "manufacturer": "Mindray" },
+    { "model_id": 29, "device_family": "BS", "model_name": "BS-2800M", "manufacturer": "Mindray" },
+
+    { "model_id": 30, "device_family": "SAL", "model_name": "Mindray SAL", "manufacturer": "Mindray" },
+    { "model_id": 31, "device_family": "BA", "model_name": "Mindray BA", "manufacturer": "Mindray" }
+  ]
+}

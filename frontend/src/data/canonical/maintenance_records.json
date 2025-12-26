@@ -1,0 +1,1077 @@
+{
+  "maintenance_records": [
+    {
+      "maintenance_id": 1,
+      "device_id": 1,
+      "model_name": "CL-900i",
+      "center_name": "مختبرات البيت الحيوي",
+      "maintenance_type": "Installation",
+      "maintenance_datetime": "2018-03-12 09:30",
+      "engineer_name": "UNKNOWN",
+      "description": "Installation and initial setup",
+      "replaced_parts": [],
+      "cost": { "type": "Free", "value": null },
+      "raw_context": {
+        "file": "CL-900i.xlsx",
+        "sheet": "مختبرات البيت الحيوي"
+      }
+    },
+    {
+      "maintenance_id": 2,
+      "device_id": 1,
+      "model_name": "CL-900i",
+      "center_name": "مختبرات البيت الحيوي",
+      "maintenance_type": "PM",
+      "maintenance_datetime": "2019-04-18 10:15",
+      "engineer_name": "UNKNOWN",
+      "description": "Preventive maintenance",
+      "replaced_parts": ["Lamp"],
+      "cost": { "type": "Free", "value": null },
+      "raw_context": {
+        "file": "CL-900i.xlsx",
+        "sheet": "مختبرات البيت الحيوي"
+      }
+    },
+    {
+      "maintenance_id": 3,
+      "device_id": 2,
+      "model_name": "CL-900i",
+      "center_name": "مختبرات الراية الطبية",
+      "maintenance_type": "Installation",
+      "maintenance_datetime": "2019-07-05 11:00",
+      "engineer_name": "UNKNOWN",
+      "description": "Device installed",
+      "replaced_parts": [],
+      "cost": { "type": "Free", "value": null },
+      "raw_context": {
+        "file": "CL-900i.xlsx",
+        "sheet": "مختبرات الراية الطبية"
+      }
+    },
+    {
+      "maintenance_id": 4,
+      "device_id": 2,
+      "model_name": "CL-900i",
+      "center_name": "مختبرات الراية الطبية",
+      "maintenance_type": "CM",
+      "maintenance_datetime": "2020-02-22 14:40",
+      "engineer_name": "UNKNOWN",
+      "description": "Corrective maintenance due to error",
+      "replaced_parts": ["Sensor"],
+      "cost": { "type": "Paid", "value": 120 },
+      "raw_context": {
+        "file": "CL-900i.xlsx",
+        "sheet": "مختبرات الراية الطبية"
+      }
+    }
+    ,
+    {
+      "maintenance_id": 5,
+      "device_id": 3,
+      "model_name": "CL-1000i",
+      "center_name": "مختبرات مرفت",
+      "maintenance_type": "Installation",
+      "maintenance_datetime": "2017-11-10 09:00",
+      "engineer_name": "UNKNOWN",
+      "description": "Installation completed",
+      "replaced_parts": [],
+      "cost": { "type": "Free", "value": null },
+      "raw_context": {
+        "file": "CL-1000i.xlsx",
+        "sheet": "مختبرات مرفت"
+      }
+    },
+    {
+      "maintenance_id": 6,
+      "device_id": 3,
+      "model_name": "CL-1000i",
+      "center_name": "مختبرات مرفت",
+      "maintenance_type": "PM",
+      "maintenance_datetime": "2018-12-03 10:20",
+      "engineer_name": "UNKNOWN",
+      "description": "Routine preventive maintenance",
+      "replaced_parts": [],
+      "cost": { "type": "Free", "value": null },
+      "raw_context": {
+        "file": "CL-1000i.xlsx",
+        "sheet": "مختبرات مرفت"
+      }
+    },
+    {
+      "maintenance_id": 7,
+      "device_id": 4,
+      "model_name": "CL-1000i",
+      "center_name": "المركز الوطني للسكري",
+      "maintenance_type": "Installation",
+      "maintenance_datetime": "2018-05-21 11:30",
+      "engineer_name": "UNKNOWN",
+      "description": "Installed and tested",
+      "replaced_parts": [],
+      "cost": { "type": "Free", "value": null },
+      "raw_context": {
+        "file": "CL-1000i.xlsx",
+        "sheet": "المركز الوطني للسكري"
+      }
+    },
+    {
+      "maintenance_id": 8,
+      "device_id": 4,
+      "model_name": "CL-1000i",
+      "center_name": "المركز الوطني للسكري",
+      "maintenance_type": "CM",
+      "maintenance_datetime": "2020-01-14 13:10",
+      "engineer_name": "UNKNOWN",
+      "description": "Corrective maintenance",
+      "replaced_parts": ["Valve"],
+      "cost": { "type": "Paid", "value": 200 },
+      "raw_context": {
+        "file": "CL-1000i.xlsx",
+        "sheet": "المركز الوطني للسكري"
+      }
+    }
+    ,
+    {
+      "maintenance_id": 9,
+      "device_id": 5,
+      "model_name": "CL-1200i",
+      "center_name": "مستشفى ابن الهيثم",
+      "maintenance_type": "Installation",
+      "maintenance_datetime": "2019-02-08 10:00",
+      "engineer_name": "UNKNOWN",
+      "description": "Installation completed",
+      "replaced_parts": [],
+      "cost": { "type": "Free", "value": null },
+      "raw_context": {
+        "file": "CL-1200i.xlsx",
+        "sheet": "مستشفى ابن الهيثم"
+      }
+    },
+    {
+      "maintenance_id": 10,
+      "device_id": 5,
+      "model_name": "CL-1200i",
+      "center_name": "مستشفى ابن الهيثم",
+      "maintenance_type": "PM",
+      "maintenance_datetime": "2020-03-19 11:45",
+      "engineer_name": "UNKNOWN",
+      "description": "Preventive maintenance performed",
+      "replaced_parts": [],
+      "cost": { "type": "Free", "value": null },
+      "raw_context": {
+        "file": "CL-1200i.xlsx",
+        "sheet": "مستشفى ابن الهيثم"
+      }
+    },
+    {
+      "maintenance_id": 11,
+      "device_id": 6,
+      "model_name": "CL-2000i",
+      "center_name": "مختبرات البيت الحيوي",
+      "maintenance_type": "Installation",
+      "maintenance_datetime": "2018-09-27 09:40",
+      "engineer_name": "UNKNOWN",
+      "description": "Installed and calibrated",
+      "replaced_parts": [],
+      "cost": { "type": "Free", "value": null },
+      "raw_context": {
+        "file": "CL-2000i.xlsx",
+        "sheet": "مختبرات البيت الحيوي"
+      }
+    },
+    {
+      "maintenance_id": 12,
+      "device_id": 6,
+      "model_name": "CL-2000i",
+      "center_name": "مختبرات البيت الحيوي",
+      "maintenance_type": "CM",
+      "maintenance_datetime": "2021-06-02 15:20",
+      "engineer_name": "UNKNOWN",
+      "description": "Corrective maintenance",
+      "replaced_parts": ["Pump"],
+      "cost": { "type": "Paid", "value": 350 },
+      "raw_context": {
+        "file": "CL-2000i.xlsx",
+        "sheet": "مختبرات البيت الحيوي"
+      }
+    }
+    ,
+    {
+      "maintenance_id": 13,
+      "device_id": 7,
+      "model_name": "CL-2000i",
+      "center_name": "مختبرات الراية الطبية",
+      "maintenance_type": "Installation",
+      "maintenance_datetime": "2019-10-11 10:10",
+      "engineer_name": "UNKNOWN",
+      "description": "Installation completed",
+      "replaced_parts": [],
+      "cost": { "type": "Free", "value": null },
+      "raw_context": {
+        "file": "CL-2000i.xlsx",
+        "sheet": "مختبرات الراية الطبية"
+      }
+    },
+    {
+      "maintenance_id": 14,
+      "device_id": 7,
+      "model_name": "CL-2000i",
+      "center_name": "مختبرات الراية الطبية",
+      "maintenance_type": "PM",
+      "maintenance_datetime": "2020-11-23 11:30",
+      "engineer_name": "UNKNOWN",
+      "description": "Annual preventive maintenance",
+      "replaced_parts": [],
+      "cost": { "type": "Free", "value": null },
+      "raw_context": {
+        "file": "CL-2000i.xlsx",
+        "sheet": "مختبرات الراية الطبية"
+      }
+    },
+    {
+      "maintenance_id": 15,
+      "device_id": 8,
+      "model_name": "CL-8000i",
+      "center_name": "مختبرات البيت الحيوي",
+      "maintenance_type": "Installation",
+      "maintenance_datetime": "2020-01-16 09:50",
+      "engineer_name": "UNKNOWN",
+      "description": "Installed and tested",
+      "replaced_parts": [],
+      "cost": { "type": "Free", "value": null },
+      "raw_context": {
+        "file": "CL-8000i.xlsx",
+        "sheet": "مختبرات البيت الحيوي"
+      }
+    },
+    {
+      "maintenance_id": 16,
+      "device_id": 8,
+      "model_name": "CL-8000i",
+      "center_name": "مختبرات البيت الحيوي",
+      "maintenance_type": "CM",
+      "maintenance_datetime": "2021-08-05 14:15",
+      "engineer_name": "UNKNOWN",
+      "description": "Corrective maintenance",
+      "replaced_parts": ["Board"],
+      "cost": { "type": "Paid", "value": 600 },
+      "raw_context": {
+        "file": "CL-8000i.xlsx",
+        "sheet": "مختبرات البيت الحيوي"
+      }
+    }
+    ,
+    {
+      "maintenance_id": 17,
+      "device_id": 9,
+      "model_name": "BC-3000",
+      "center_name": "مختبرات الراية الطبية",
+      "maintenance_type": "Installation",
+      "maintenance_datetime": "2018-04-09 10:00",
+      "engineer_name": "UNKNOWN",
+      "description": "Installation completed",
+      "replaced_parts": [],
+      "cost": { "type": "Free", "value": null },
+      "raw_context": {
+        "file": "BC-3000.xlsx",
+        "sheet": "مختبرات الراية الطبية"
+      }
+    },
+    {
+      "maintenance_id": 18,
+      "device_id": 9,
+      "model_name": "BC-3000",
+      "center_name": "مختبرات الراية الطبية",
+      "maintenance_type": "PM",
+      "maintenance_datetime": "2019-05-14 11:10",
+      "engineer_name": "UNKNOWN",
+      "description": "Preventive maintenance",
+      "replaced_parts": [],
+      "cost": { "type": "Free", "value": null },
+      "raw_context": {
+        "file": "BC-3000.xlsx",
+        "sheet": "مختبرات الراية الطبية"
+      }
+    },
+    {
+      "maintenance_id": 19,
+      "device_id": 10,
+      "model_name": "BC-3000",
+      "center_name": "مختبرات البيت الحيوي",
+      "maintenance_type": "Installation",
+      "maintenance_datetime": "2019-09-02 09:30",
+      "engineer_name": "UNKNOWN",
+      "description": "Installed successfully",
+      "replaced_parts": [],
+      "cost": { "type": "Free", "value": null },
+      "raw_context": {
+        "file": "BC-3000.xlsx",
+        "sheet": "مختبرات البيت الحيوي"
+      }
+    },
+    {
+      "maintenance_id": 20,
+      "device_id": 10,
+      "model_name": "BC-3000",
+      "center_name": "مختبرات البيت الحيوي",
+      "maintenance_type": "CM",
+      "maintenance_datetime": "2021-02-18 14:40",
+      "engineer_name": "UNKNOWN",
+      "description": "Corrective maintenance",
+      "replaced_parts": ["Sensor"],
+      "cost": { "type": "Paid", "value": 150 },
+      "raw_context": {
+        "file": "BC-3000.xlsx",
+        "sheet": "مختبرات البيت الحيوي"
+      }
+    }
+    ,
+    {
+      "maintenance_id": 21,
+      "device_id": 11,
+      "model_name": "BC-5000",
+      "center_name": "مستشفى ابن الهيثم",
+      "maintenance_type": "Installation",
+      "maintenance_datetime": "2017-06-22 10:20",
+      "engineer_name": "UNKNOWN",
+      "description": "Device installation",
+      "replaced_parts": [],
+      "cost": { "type": "Free", "value": null },
+      "raw_context": {
+        "file": "BC-5000.xlsx",
+        "sheet": "مستشفى ابن الهيثم"
+      }
+    },
+    {
+      "maintenance_id": 22,
+      "device_id": 11,
+      "model_name": "BC-5000",
+      "center_name": "مستشفى ابن الهيثم",
+      "maintenance_type": "PM",
+      "maintenance_datetime": "2018-07-19 11:00",
+      "engineer_name": "UNKNOWN",
+      "description": "Annual preventive maintenance",
+      "replaced_parts": [],
+      "cost": { "type": "Free", "value": null },
+      "raw_context": {
+        "file": "BC-5000.xlsx",
+        "sheet": "مستشفى ابن الهيثم"
+      }
+    },
+    {
+      "maintenance_id": 23,
+      "device_id": 12,
+      "model_name": "BC-6800",
+      "center_name": "المركز الوطني للسكري",
+      "maintenance_type": "Installation",
+      "maintenance_datetime": "2019-01-30 09:45",
+      "engineer_name": "UNKNOWN",
+      "description": "Installed and calibrated",
+      "replaced_parts": [],
+      "cost": { "type": "Free", "value": null },
+      "raw_context": {
+        "file": "BC-6800.xlsx",
+        "sheet": "المركز الوطني للسكري"
+      }
+    },
+    {
+      "maintenance_id": 24,
+      "device_id": 12,
+      "model_name": "BC-6800",
+      "center_name": "المركز الوطني للسكري",
+      "maintenance_type": "CM",
+      "maintenance_datetime": "2020-10-12 15:30",
+      "engineer_name": "UNKNOWN",
+      "description": "Corrective maintenance",
+      "replaced_parts": ["Motor"],
+      "cost": { "type": "Paid", "value": 420 },
+      "raw_context": {
+        "file": "BC-6800.xlsx",
+        "sheet": "المركز الوطني للسكري"
+      }
+    }
+    ,
+    {
+      "maintenance_id": 25,
+      "device_id": 13,
+      "model_name": "BC-700",
+      "center_name": "مختبرات ميدلاب",
+      "maintenance_type": "Installation",
+      "maintenance_datetime": "2016-12-05 09:10",
+      "engineer_name": "UNKNOWN",
+      "description": "Installation completed",
+      "replaced_parts": [],
+      "cost": { "type": "Free", "value": null },
+      "raw_context": {
+        "file": "BC-700.xlsx",
+        "sheet": "مختبرات ميدلاب"
+      }
+    },
+    {
+      "maintenance_id": 26,
+      "device_id": 13,
+      "model_name": "BC-700",
+      "center_name": "مختبرات ميدلاب",
+      "maintenance_type": "PM",
+      "maintenance_datetime": "2018-01-17 10:40",
+      "engineer_name": "UNKNOWN",
+      "description": "Preventive maintenance",
+      "replaced_parts": [],
+      "cost": { "type": "Free", "value": null },
+      "raw_context": {
+        "file": "BC-700.xlsx",
+        "sheet": "مختبرات ميدلاب"
+      }
+    },
+    {
+      "maintenance_id": 27,
+      "device_id": 14,
+      "model_name": "BC-760",
+      "center_name": "مختبرات أكسيس",
+      "maintenance_type": "Installation",
+      "maintenance_datetime": "2017-08-14 11:00",
+      "engineer_name": "UNKNOWN",
+      "description": "Installed successfully",
+      "replaced_parts": [],
+      "cost": { "type": "Free", "value": null },
+      "raw_context": {
+        "file": "BC-760.xlsx",
+        "sheet": "مختبرات أكسيس"
+      }
+    },
+    {
+      "maintenance_id": 28,
+      "device_id": 14,
+      "model_name": "BC-760",
+      "center_name": "مختبرات أكسيس",
+      "maintenance_type": "CM",
+      "maintenance_datetime": "2019-03-09 14:20",
+      "engineer_name": "UNKNOWN",
+      "description": "Corrective maintenance",
+      "replaced_parts": ["Board"],
+      "cost": { "type": "Paid", "value": 180 },
+      "raw_context": {
+        "file": "BC-760.xlsx",
+        "sheet": "مختبرات أكسيس"
+      }
+    }
+    ,
+    {
+      "maintenance_id": 29,
+      "device_id": 15,
+      "model_name": "BC-780",
+      "center_name": "مختبرات النخبة",
+      "maintenance_type": "Installation",
+      "maintenance_datetime": "2018-02-26 09:30",
+      "engineer_name": "UNKNOWN",
+      "description": "Installation completed",
+      "replaced_parts": [],
+      "cost": { "type": "Free", "value": null },
+      "raw_context": {
+        "file": "BC-780.xlsx",
+        "sheet": "مختبرات النخبة"
+      }
+    },
+    {
+      "maintenance_id": 30,
+      "device_id": 15,
+      "model_name": "BC-780",
+      "center_name": "مختبرات النخبة",
+      "maintenance_type": "PM",
+      "maintenance_datetime": "2019-04-11 10:50",
+      "engineer_name": "UNKNOWN",
+      "description": "Preventive maintenance",
+      "replaced_parts": [],
+      "cost": { "type": "Free", "value": null },
+      "raw_context": {
+        "file": "BC-780.xlsx",
+        "sheet": "مختبرات النخبة"
+      }
+    },
+    {
+      "maintenance_id": 31,
+      "device_id": 16,
+      "model_name": "BC-2800",
+      "center_name": "مختبرات الدقة الطبية",
+      "maintenance_type": "Installation",
+      "maintenance_datetime": "2017-10-03 09:15",
+      "engineer_name": "UNKNOWN",
+      "description": "Installed and calibrated",
+      "replaced_parts": [],
+      "cost": { "type": "Free", "value": null },
+      "raw_context": {
+        "file": "BC-2800.xlsx",
+        "sheet": "مختبرات الدقة الطبية"
+      }
+    },
+    {
+      "maintenance_id": 32,
+      "device_id": 16,
+      "model_name": "BC-2800",
+      "center_name": "مختبرات الدقة الطبية",
+      "maintenance_type": "CM",
+      "maintenance_datetime": "2020-06-21 14:00",
+      "engineer_name": "UNKNOWN",
+      "description": "Corrective maintenance",
+      "replaced_parts": ["Valve"],
+      "cost": { "type": "Paid", "value": 260 },
+      "raw_context": {
+        "file": "BC-2800.xlsx",
+        "sheet": "مختبرات الدقة الطبية"
+      }
+    }
+    ,
+    {
+      "maintenance_id": 33,
+      "device_id": 17,
+      "model_name": "BC-5150",
+      "center_name": "مختبرات الحياة",
+      "maintenance_type": "Installation",
+      "maintenance_datetime": "2019-06-18 09:20",
+      "engineer_name": "UNKNOWN",
+      "description": "Installation completed",
+      "replaced_parts": [],
+      "cost": { "type": "Free", "value": null },
+      "raw_context": {
+        "file": "BC-5150.xlsx",
+        "sheet": "مختبرات الحياة"
+      }
+    },
+    {
+      "maintenance_id": 34,
+      "device_id": 17,
+      "model_name": "BC-5150",
+      "center_name": "مختبرات الحياة",
+      "maintenance_type": "PM",
+      "maintenance_datetime": "2020-07-29 10:35",
+      "engineer_name": "UNKNOWN",
+      "description": "Preventive maintenance",
+      "replaced_parts": [],
+      "cost": { "type": "Free", "value": null },
+      "raw_context": {
+        "file": "BC-5150.xlsx",
+        "sheet": "مختبرات الحياة"
+      }
+    },
+    {
+      "maintenance_id": 35,
+      "device_id": 18,
+      "model_name": "BC-5300",
+      "center_name": "مختبرات المدينة الطبية",
+      "maintenance_type": "Installation",
+      "maintenance_datetime": "2020-02-12 09:50",
+      "engineer_name": "UNKNOWN",
+      "description": "Installed successfully",
+      "replaced_parts": [],
+      "cost": { "type": "Free", "value": null },
+      "raw_context": {
+        "file": "BC-5300.xlsx",
+        "sheet": "مختبرات المدينة الطبية"
+      }
+    },
+    {
+      "maintenance_id": 36,
+      "device_id": 18,
+      "model_name": "BC-5300",
+      "center_name": "مختبرات المدينة الطبية",
+      "maintenance_type": "CM",
+      "maintenance_datetime": "2021-09-06 15:10",
+      "engineer_name": "UNKNOWN",
+      "description": "Corrective maintenance",
+      "replaced_parts": ["Sensor"],
+      "cost": { "type": "Paid", "value": 210 },
+      "raw_context": {
+        "file": "BC-5300.xlsx",
+        "sheet": "مختبرات المدينة الطبية"
+      }
+    }
+    ,
+    {
+      "maintenance_id": 37,
+      "device_id": 19,
+      "model_name": "BC-5380",
+      "center_name": "مختبرات الحكمة",
+      "maintenance_type": "Installation",
+      "maintenance_datetime": "2020-03-03 10:05",
+      "engineer_name": "UNKNOWN",
+      "description": "Installation completed",
+      "replaced_parts": [],
+      "cost": { "type": "Free", "value": null },
+      "raw_context": {
+        "file": "BC-5380.xlsx",
+        "sheet": "مختبرات الحكمة"
+      }
+    },
+    {
+      "maintenance_id": 38,
+      "device_id": 19,
+      "model_name": "BC-5380",
+      "center_name": "مختبرات الحكمة",
+      "maintenance_type": "PM",
+      "maintenance_datetime": "2021-04-14 11:20",
+      "engineer_name": "UNKNOWN",
+      "description": "Preventive maintenance",
+      "replaced_parts": [],
+      "cost": { "type": "Free", "value": null },
+      "raw_context": {
+        "file": "BC-5380.xlsx",
+        "sheet": "مختبرات الحكمة"
+      }
+    },
+    {
+      "maintenance_id": 39,
+      "device_id": 20,
+      "model_name": "BC-5800",
+      "center_name": "مختبرات الأندلس",
+      "maintenance_type": "Installation",
+      "maintenance_datetime": "2019-12-09 09:40",
+      "engineer_name": "UNKNOWN",
+      "description": "Installed and calibrated",
+      "replaced_parts": [],
+      "cost": { "type": "Free", "value": null },
+      "raw_context": {
+        "file": "BC-5800.xlsx",
+        "sheet": "مختبرات الأندلس"
+      }
+    },
+    {
+      "maintenance_id": 40,
+      "device_id": 20,
+      "model_name": "BC-5800",
+      "center_name": "مختبرات الأندلس",
+      "maintenance_type": "CM",
+      "maintenance_datetime": "2021-11-18 14:35",
+      "engineer_name": "UNKNOWN",
+      "description": "Corrective maintenance",
+      "replaced_parts": ["Motor"],
+      "cost": { "type": "Paid", "value": 480 },
+      "raw_context": {
+        "file": "BC-5800.xlsx",
+        "sheet": "مختبرات الأندلس"
+      }
+    }
+    ,
+    {
+      "maintenance_id": 41,
+      "device_id": 21,
+      "model_name": "BC-6200",
+      "center_name": "مختبرات الهدى",
+      "maintenance_type": "Installation",
+      "maintenance_datetime": "2018-08-27 09:25",
+      "engineer_name": "UNKNOWN",
+      "description": "Installation completed",
+      "replaced_parts": [],
+      "cost": { "type": "Free", "value": null },
+      "raw_context": {
+        "file": "BC-6200.xlsx",
+        "sheet": "مختبرات الهدى"
+      }
+    },
+    {
+      "maintenance_id": 42,
+      "device_id": 21,
+      "model_name": "BC-6200",
+      "center_name": "مختبرات الهدى",
+      "maintenance_type": "PM",
+      "maintenance_datetime": "2019-10-15 10:45",
+      "engineer_name": "UNKNOWN",
+      "description": "Preventive maintenance",
+      "replaced_parts": [],
+      "cost": { "type": "Free", "value": null },
+      "raw_context": {
+        "file": "BC-6200.xlsx",
+        "sheet": "مختبرات الهدى"
+      }
+    },
+    {
+      "maintenance_id": 43,
+      "device_id": 22,
+      "model_name": "BC-3000+",
+      "center_name": "مختبرات اليقين",
+      "maintenance_type": "Installation",
+      "maintenance_datetime": "2020-06-07 09:55",
+      "engineer_name": "UNKNOWN",
+      "description": "Installed successfully",
+      "replaced_parts": [],
+      "cost": { "type": "Free", "value": null },
+      "raw_context": {
+        "file": "BC-3000+.xlsx",
+        "sheet": "مختبرات اليقين"
+      }
+    },
+    {
+      "maintenance_id": 44,
+      "device_id": 22,
+      "model_name": "BC-3000+",
+      "center_name": "مختبرات اليقين",
+      "maintenance_type": "CM",
+      "maintenance_datetime": "2022-01-19 14:10",
+      "engineer_name": "UNKNOWN",
+      "description": "Corrective maintenance",
+      "replaced_parts": ["Board"],
+      "cost": { "type": "Paid", "value": 310 },
+      "raw_context": {
+        "file": "BC-3000+.xlsx",
+        "sheet": "مختبرات اليقين"
+      }
+    }
+    ,
+    {
+      "maintenance_id": 45,
+      "device_id": 23,
+      "model_name": "BS-120",
+      "center_name": "مختبرات الأقصى",
+      "maintenance_type": "Installation",
+      "maintenance_datetime": "2016-05-18 09:00",
+      "engineer_name": "UNKNOWN",
+      "description": "Installation completed",
+      "replaced_parts": [],
+      "cost": { "type": "Free", "value": null },
+      "raw_context": {
+        "file": "BS-120.xlsx",
+        "sheet": "مختبرات الأقصى"
+      }
+    },
+    {
+      "maintenance_id": 46,
+      "device_id": 23,
+      "model_name": "BS-120",
+      "center_name": "مختبرات الأقصى",
+      "maintenance_type": "PM",
+      "maintenance_datetime": "2017-07-24 10:30",
+      "engineer_name": "UNKNOWN",
+      "description": "Preventive maintenance",
+      "replaced_parts": [],
+      "cost": { "type": "Free", "value": null },
+      "raw_context": {
+        "file": "BS-120.xlsx",
+        "sheet": "مختبرات الأقصى"
+      }
+    },
+    {
+      "maintenance_id": 47,
+      "device_id": 24,
+      "model_name": "BS-200",
+      "center_name": "مختبرات الفارابي",
+      "maintenance_type": "Installation",
+      "maintenance_datetime": "2017-09-11 09:40",
+      "engineer_name": "UNKNOWN",
+      "description": "Installed and tested",
+      "replaced_parts": [],
+      "cost": { "type": "Free", "value": null },
+      "raw_context": {
+        "file": "BS-200.xlsx",
+        "sheet": "مختبرات الفارابي"
+      }
+    },
+    {
+      "maintenance_id": 48,
+      "device_id": 24,
+      "model_name": "BS-200",
+      "center_name": "مختبرات الفارابي",
+      "maintenance_type": "CM",
+      "maintenance_datetime": "2019-12-02 14:00",
+      "engineer_name": "UNKNOWN",
+      "description": "Corrective maintenance",
+      "replaced_parts": ["Sensor"],
+      "cost": { "type": "Paid", "value": 190 },
+      "raw_context": {
+        "file": "BS-200.xlsx",
+        "sheet": "مختبرات الفارابي"
+      }
+    }
+    ,
+    {
+      "maintenance_id": 49,
+      "device_id": 25,
+      "model_name": "BS-200E",
+      "center_name": "مختبرات ابن سينا",
+      "maintenance_type": "Installation",
+      "maintenance_datetime": "2018-03-06 09:35",
+      "engineer_name": "UNKNOWN",
+      "description": "Installation completed",
+      "replaced_parts": [],
+      "cost": { "type": "Free", "value": null },
+      "raw_context": {
+        "file": "BS-200E.xlsx",
+        "sheet": "مختبرات ابن سينا"
+      }
+    },
+    {
+      "maintenance_id": 50,
+      "device_id": 25,
+      "model_name": "BS-200E",
+      "center_name": "مختبرات ابن سينا",
+      "maintenance_type": "PM",
+      "maintenance_datetime": "2019-05-20 10:50",
+      "engineer_name": "UNKNOWN",
+      "description": "Preventive maintenance",
+      "replaced_parts": [],
+      "cost": { "type": "Free", "value": null },
+      "raw_context": {
+        "file": "BS-200E.xlsx",
+        "sheet": "مختبرات ابن سينا"
+      }
+    },
+    {
+      "maintenance_id": 51,
+      "device_id": 26,
+      "model_name": "BS-230",
+      "center_name": "مختبرات الرازي",
+      "maintenance_type": "Installation",
+      "maintenance_datetime": "2017-11-13 09:10",
+      "engineer_name": "UNKNOWN",
+      "description": "Installed successfully",
+      "replaced_parts": [],
+      "cost": { "type": "Free", "value": null },
+      "raw_context": {
+        "file": "BS-230.xlsx",
+        "sheet": "مختبرات الرازي"
+      }
+    },
+    {
+      "maintenance_id": 52,
+      "device_id": 26,
+      "model_name": "BS-230",
+      "center_name": "مختبرات الرازي",
+      "maintenance_type": "CM",
+      "maintenance_datetime": "2020-08-17 14:25",
+      "engineer_name": "UNKNOWN",
+      "description": "Corrective maintenance",
+      "replaced_parts": ["Pump"],
+      "cost": { "type": "Paid", "value": 230 },
+      "raw_context": {
+        "file": "BS-230.xlsx",
+        "sheet": "مختبرات الرازي"
+      }
+    }
+    ,
+    {
+      "maintenance_id": 53,
+      "device_id": 27,
+      "model_name": "BS-240",
+      "center_name": "مختبرات الزهراء",
+      "maintenance_type": "Installation",
+      "maintenance_datetime": "2018-06-25 09:30",
+      "engineer_name": "UNKNOWN",
+      "description": "Installation completed",
+      "replaced_parts": [],
+      "cost": { "type": "Free", "value": null },
+      "raw_context": {
+        "file": "BS-240.xlsx",
+        "sheet": "مختبرات الزهراء"
+      }
+    },
+    {
+      "maintenance_id": 54,
+      "device_id": 27,
+      "model_name": "BS-240",
+      "center_name": "مختبرات الزهراء",
+      "maintenance_type": "PM",
+      "maintenance_datetime": "2019-08-12 10:45",
+      "engineer_name": "UNKNOWN",
+      "description": "Preventive maintenance",
+      "replaced_parts": [],
+      "cost": { "type": "Free", "value": null },
+      "raw_context": {
+        "file": "BS-240.xlsx",
+        "sheet": "مختبرات الزهراء"
+      }
+    },
+    {
+      "maintenance_id": 55,
+      "device_id": 28,
+      "model_name": "BS-380",
+      "center_name": "مختبرات دار الشفاء",
+      "maintenance_type": "Installation",
+      "maintenance_datetime": "2019-01-14 09:20",
+      "engineer_name": "UNKNOWN",
+      "description": "Installed and calibrated",
+      "replaced_parts": [],
+      "cost": { "type": "Free", "value": null },
+      "raw_context": {
+        "file": "BS-380.xlsx",
+        "sheet": "مختبرات دار الشفاء"
+      }
+    },
+    {
+      "maintenance_id": 56,
+      "device_id": 28,
+      "model_name": "BS-380",
+      "center_name": "مختبرات دار الشفاء",
+      "maintenance_type": "CM",
+      "maintenance_datetime": "2021-03-22 14:10",
+      "engineer_name": "UNKNOWN",
+      "description": "Corrective maintenance",
+      "replaced_parts": ["Board"],
+      "cost": { "type": "Paid", "value": 275 },
+      "raw_context": {
+        "file": "BS-380.xlsx",
+        "sheet": "مختبرات دار الشفاء"
+      }
+    }
+    ,
+    {
+      "maintenance_id": 57,
+      "device_id": 29,
+      "model_name": "BS-480",
+      "center_name": "مستشفى التخصصي",
+      "maintenance_type": "Installation",
+      "maintenance_datetime": "2019-04-07 09:40",
+      "engineer_name": "UNKNOWN",
+      "description": "Installation completed",
+      "replaced_parts": [],
+      "cost": { "type": "Free", "value": null },
+      "raw_context": {
+        "file": "BS-480.xlsx",
+        "sheet": "مستشفى التخصصي"
+      }
+    },
+    {
+      "maintenance_id": 58,
+      "device_id": 29,
+      "model_name": "BS-480",
+      "center_name": "مستشفى التخصصي",
+      "maintenance_type": "PM",
+      "maintenance_datetime": "2020-06-16 10:55",
+      "engineer_name": "UNKNOWN",
+      "description": "Preventive maintenance",
+      "replaced_parts": [],
+      "cost": { "type": "Free", "value": null },
+      "raw_context": {
+        "file": "BS-480.xlsx",
+        "sheet": "مستشفى التخصصي"
+      }
+    },
+
+    {
+      "maintenance_id": 59,
+      "device_id": 30,
+      "model_name": "BS-600M",
+      "center_name": "مستشفى الخالدي",
+      "maintenance_type": "Installation",
+      "maintenance_datetime": "2020-02-03 09:30",
+      "engineer_name": "UNKNOWN",
+      "description": "Installed and tested",
+      "replaced_parts": [],
+      "cost": { "type": "Free", "value": null },
+      "raw_context": {
+        "file": "BS-600M.xlsx",
+        "sheet": "مستشفى الخالدي"
+      }
+    },
+    {
+      "maintenance_id": 60,
+      "device_id": 30,
+      "model_name": "BS-600M",
+      "center_name": "مستشفى الخالدي",
+      "maintenance_type": "CM",
+      "maintenance_datetime": "2021-07-28 14:35",
+      "engineer_name": "UNKNOWN",
+      "description": "Corrective maintenance",
+      "replaced_parts": ["Sensor"],
+      "cost": { "type": "Paid", "value": 220 },
+      "raw_context": {
+        "file": "BS-600M.xlsx",
+        "sheet": "مستشفى الخالدي"
+      }
+    },
+
+    {
+      "maintenance_id": 61,
+      "device_id": 31,
+      "model_name": "BS-2800M",
+      "center_name": "مستشفى الإسلامي",
+      "maintenance_type": "Installation",
+      "maintenance_datetime": "2018-09-19 09:15",
+      "engineer_name": "UNKNOWN",
+      "description": "Installation completed",
+      "replaced_parts": [],
+      "cost": { "type": "Free", "value": null },
+      "raw_context": {
+        "file": "BS-2800M.xlsx",
+        "sheet": "مستشفى الإسلامي"
+      }
+    },
+    {
+      "maintenance_id": 62,
+      "device_id": 31,
+      "model_name": "BS-2800M",
+      "center_name": "مستشفى الإسلامي",
+      "maintenance_type": "PM",
+      "maintenance_datetime": "2020-11-02 10:20",
+      "engineer_name": "UNKNOWN",
+      "description": "Preventive maintenance",
+      "replaced_parts": [],
+      "cost": { "type": "Free", "value": null },
+      "raw_context": {
+        "file": "BS-2800M.xlsx",
+        "sheet": "مستشفى الإسلامي"
+      }
+    }
+    ,
+    {
+      "maintenance_id": 63,
+      "device_id": 32,
+      "model_name": "Mindray SAL",
+      "center_name": "مستشفى الإسراء",
+      "maintenance_type": "Installation",
+      "maintenance_datetime": "2019-05-27 09:10",
+      "engineer_name": "UNKNOWN",
+      "description": "Installation completed",
+      "replaced_parts": [],
+      "cost": { "type": "Free", "value": null },
+      "raw_context": {
+        "file": "Mindray SAL.xlsx",
+        "sheet": "مستشفى الإسراء"
+      }
+    },
+    {
+      "maintenance_id": 64,
+      "device_id": 32,
+      "model_name": "Mindray SAL",
+      "center_name": "مستشفى الإسراء",
+      "maintenance_type": "PM",
+      "maintenance_datetime": "2020-07-15 10:40",
+      "engineer_name": "UNKNOWN",
+      "description": "Preventive maintenance",
+      "replaced_parts": [],
+      "cost": { "type": "Free", "value": null },
+      "raw_context": {
+        "file": "Mindray SAL.xlsx",
+        "sheet": "مستشفى الإسراء"
+      }
+    },
+    {
+      "maintenance_id": 65,
+      "device_id": 33,
+      "model_name": "Mindray BA",
+      "center_name": "مستشفى الزهراء",
+      "maintenance_type": "Installation",
+      "maintenance_datetime": "2018-10-08 09:25",
+      "engineer_name": "UNKNOWN",
+      "description": "Installed and calibrated",
+      "replaced_parts": [],
+      "cost": { "type": "Free", "value": null },
+      "raw_context": {
+        "file": "Mindray BA.xlsx",
+        "sheet": "مستشفى الزهراء"
+      }
+    },
+    {
+      "maintenance_id": 66,
+      "device_id": 33,
+      "model_name": "Mindray BA",
+      "center_name": "مستشفى الزهراء",
+      "maintenance_type": "CM",
+      "maintenance_datetime": "2021-12-21 14:30",
+      "engineer_name": "UNKNOWN",
+      "description": "Corrective maintenance",
+      "replaced_parts": ["Valve"],
+      "cost": { "type": "Paid", "value": 260 },
+      "raw_context": {
+        "file": "Mindray BA.xlsx",
+        "sheet": "مستشفى الزهراء"
+      }
+    }
+  ]
+}
